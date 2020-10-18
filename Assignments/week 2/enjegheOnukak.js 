@@ -1,3 +1,5 @@
+// Grade Interpreter
+
 function calcGrade(value) {
    if (value < 40)
      return "Your score is F";
@@ -16,6 +18,7 @@ function calcGrade(value) {
  console.log(calcGrade(86));
  
  
+ // pH Scale 
  
  function calcPh(value) {
    if ((value < 0) || (value > 14))
