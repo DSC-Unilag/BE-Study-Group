@@ -1,5 +1,4 @@
 ## Input your name, file name and phone number here
-<<<<<<< HEAD
 1. Animashaun Taofiq, taofiqAnimashaun.js, 08108667883
 2. Oke Olalekan, okeolalekan4.js 08179459363
 3. Priyal Tiwary - priyalTiwary4.js - 8927601405
@@ -28,6 +27,3 @@
 26.  Daniel Afam, danielAfam.js 09039539787
 27. Abdullah Mumuni, week4.js, 08085008872
 28. Adebayo Benjamin, adebayoBenjamin.js, 09030622835
-=======
-Adebayo Benjamin benjaminAdebayo2.js 09030622835
->>>>>>> dc83b6da1df03f40e6a7515e6503dc1400bd3a7c
