@@ -21,24 +21,6 @@
 20. Yisau Abdussamad - yisauAbdussamad.js
 21. Ademoye Mahmood - ademoyeMahmood.js
 22. Eribake Oluwatimilehin - EribakeOluwatimilehin.js
-<<<<<<< HEAD
-23. Aliyu Abdul Ganiy -aliAbdulGaniy.js
-24. Mofikoya Oluwatosin - oluwatosinMofikoya.js
-25. Olaoluwa Ezekiel Dada - olaoluwaDada.js
-26. Abdulhameed Hussein - abdulhameedHussein.js
-27. Ohia Kennedy - kennedyOhia.js
-28. Olawanle Temitayo - olawanleTemitayo.js
-29. Jacob Daniel -jacobdaniel.js
-30. Faruq Bakare - bakareFaruq.js
-31. Mujeeb Abdulrahman - AbdulrahmanMujeeb.js
-32. Caleb Stanley - calebStanley.js
-33. Adeyemi Jammal - adeyemiJammal
-34. Samuel Kayode - samuelKayode.js
-35. Samuel Shodipo - samuelShodipo.js
-36. Adeleye Temilade - AdeleyeTemilade.js
-
-
-=======
 23. Adeleye Temilade - AdeleyeTemilade.js
 24. Aliyu Abdul Ganiy -aliAbdulGaniy.js
 25. Mofikoya Oluwatosin - oluwatosinMofikoya.js
@@ -52,4 +34,3 @@
 33. Caleb Stanley - calebStanley.js
 34. Adeyemi Jammal - adeyemiJammal
 35. Samuel Kayode - samuelKayode.js
->>>>>>> dc83b6da1df03f40e6a7515e6503dc1400bd3a7c
